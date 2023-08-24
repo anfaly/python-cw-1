@@ -18,13 +18,9 @@ print("ANFAL ALMUTAIRI")
 X = 4
 Y = 4
 print(X+Y)
-print(X\y)
+print(X/Y)
 print(X*Y)
 lENGTH = 5
 WIDTH = 3
 AREA = (WIDTH * lENGTH)
 print(F"THE RESULT IS {AREA}")
-print("6*3")
-lENGTH = 5
-WIDTH = 3
-AREA = 15
